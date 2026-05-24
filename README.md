@@ -1,6 +1,6 @@
 # Btech_G2K_VAISHNAVI_11
 C Program
-WAP to find sum of 5 numbers and average of it.
+1-WAP to find sum of 5 numbers and average of it.
 #include <stdio.h>
 
 int main() {
